@@ -1,11 +1,3 @@
-
-
-中篇已新鲜出炉，速速杀入 
-
-- [面试中篇](https://github.com/xd-tayde/blog/blob/master/interview-2.md);
-- [面试下篇](https://github.com/xd-tayde/blog/blob/master/interview-3.md);
-
-
 ## 修炼原则
 
 想必大家很厌烦笔试和考察知识点。因为其实在平时实战中，讲究的是开发效率，很少会去刻意记下一些细节和深挖知识点，脑海中都是一些分散的知识点，无法系统性地关联成网，一直处于似曾相识的状态。不知道多少人和博主一样，至今每次写阻止冒泡都需要谷歌一番如何拼写。🤪。
